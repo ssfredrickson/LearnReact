@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 20px;
+  text-align: inherit;
+}
+
+.App-header {
+  background-color: #111;
+  min-height: 60px;
+
+}
