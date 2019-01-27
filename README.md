@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). App has already been ejected from Create-React-App to support up-to-date ESlinting.
 
 ## Available Scripts
 
